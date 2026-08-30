@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Wojciech;Full-stack+Developer;Laravel+%7C+Vue+3+%7C+TypeScript;Building+promotional+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Wojciech;Full-stack+Developer;Laravel+%7C+Vue+%7C+React+%7C+Next.js;Building+promotional+platforms" alt="Typing SVG" />
 
 <br>
 
@@ -21,7 +21,7 @@ Most of that work sits in private client repos. Public GitHub is the tip of the 
 
 - Currently building developer workflow playbooks (brief → backend / frontend) with Cursor
 - Working on production promo platforms for agencies (FMCG, retail)
-- Ask me about Laravel campaign systems, Vue 3 + Inertia, GSAP landings with zero reflow
+- Ask me about Laravel campaign systems, Vue / React / Next.js, GSAP landings with zero reflow
 - Reach me at **tazor1337@gmail.com**
 
 <br>
@@ -56,6 +56,8 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 **Frontend**
 
 ![Vue](https://img.shields.io/badge/Vue_3-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=42b883)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Inertia](https://img.shields.io/badge/Inertia-0d1117?style=for-the-badge&logo=inertia&logoColor=9553E9)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
@@ -65,10 +67,13 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
 
 **Database & integrations**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SendGrid](https://img.shields.io/badge/SendGrid-0d1117?style=for-the-badge&logo=sendgrid&logoColor=38BDF8)
 
@@ -80,8 +85,8 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adelbert00&show_icons=true&locale=en&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=e6edf3&border_color=30363d&hide_border=false" alt="adelbert00 stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelbert00&layout=compact&locale=en&bg_color=0d1117&title_color=38BDF8&text_color=e6edf3&border_color=30363d" alt="Top languages" />
+<img height="165" src="./profile/stats.svg" alt="adelbert00 stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adelbert00&theme=dark&background=0d1117&border=30363d&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=e6edf3&dates=8b949e" alt="Streak" />
 
@@ -102,5 +107,5 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 <br>
 
 <div align="center">
-<sub>Kraków · Laravel / Vue · Make It Flow</sub>
+<sub>Kraków · Laravel / Vue / React · Make It Flow</sub>
 </div>
