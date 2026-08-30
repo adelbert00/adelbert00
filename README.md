@@ -19,7 +19,7 @@ I'm a full-stack developer at [Make It Flow](https://makeitflow.pl), based in Kr
 
 Most of that work sits in private client repos. Public GitHub is the tip of the iceberg.
 
-- Currently building developer workflow playbooks (brief → backend / frontend) with Cursor
+- Currently building developer workflow playbooks (brief → backend / frontend) with Cursor Agent + MCP
 - Working on production promo platforms for agencies (FMCG, retail)
 - Ask me about Laravel campaign systems, Vue / React / Next.js, GSAP landings with zero reflow
 - Reach me at **tazor1337@gmail.com**
@@ -98,6 +98,15 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Doppler](https://img.shields.io/badge/Doppler-0d1117?style=for-the-badge&logo=doppler&logoColor=38BDF8)
 ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=white)
+
+**AI**
+
+![Cursor](https://img.shields.io/badge/Cursor_Agent-0d1117?style=for-the-badge&logo=cursor&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A574)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=38BDF8)
+![Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge)
 
 </div>
 
