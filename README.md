@@ -112,6 +112,18 @@ Time tracker — Laravel API + Vue 3 dashboard (Inertia, Tailwind). Public repo:
 
 <br>
 
+### GitHub stats
+
+<div align="center">
+
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adelbert00&theme=dark&background=0d1117&border=30363d&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=e6edf3&dates=8b949e" alt="Streak" />
+
+</div>
+
+<br>
+
 ### Connect
 
 <div align="center">
